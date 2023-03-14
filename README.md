@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tesfaye</h1>
-<h3 align="center">A passionate frontend web developer from Ethiopia</h3>
+<h3 align="center">A passionate frontend web developer.</h3>
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoab01&label=Profile%20views&color=0e75b6&style=flat" alt="eyoab01" /> </p>
