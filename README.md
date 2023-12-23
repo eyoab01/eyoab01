@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript at Microverse**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eyoab01/](https://www.github.com/eyoab01/)
+- 👨‍💻 All of my projects are available at [https://tesfayeteklu.com/](https://www.tesfayeteklu.com)
 
 - 💬 Ask me about **HTML and CSS**
 
